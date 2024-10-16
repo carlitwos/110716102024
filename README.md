@@ -6,7 +6,7 @@ http://tv.nousiptv.com:8080/grace22333/gracegraciela/51400
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/kaRinm4.jpeg",3. CANAL 3📺
 https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w1711932051.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/hsvNoL1.jpeg",4. CANAL 4📺
-http://tecnozone.site:8880/m7X4f6H-2/v8M9p3W-4/2702
+http://cincotv.org:25461/josser20/borja22/186522
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/vbeFEHl.jpeg",5. ASI ES MI GENTE TV📺
 https://www.yupi.live:1936/tvmigente/tvmigente/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/z4GOhpR.jpeg",6. CANAL 6📺
